@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-oyr(k&tgs@v=#^c8ab5^@tdbai-h_0y)vkhvu!l+@!h(h1wtkz
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'gokul-django-app-h5ffe8b2adbfgbff.canadacentral-01.azurewebsites.net'
+    'gokul-django-app-h5ffe8b2adbfgbff.canadacentral-01.azurewebsites.net',
+    'djangoapp.gecnoguru.com'
 ]
 
 
