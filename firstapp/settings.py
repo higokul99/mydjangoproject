@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-oyr(k&tgs@v=#^c8ab5^@tdbai-h_0y)vkhvu!l+@!h(h1wtkz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'gokul-django-app-h5ffe8b2adbfgbff.canadacentral-01.azurewebsites.net'
+]
 
 
 # Application definition
