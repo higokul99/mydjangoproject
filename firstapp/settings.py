@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'gokul-django-app-h5ffe8b2adbfgbff.canadacentral-01.azurewebsites.net',
-    'djangoapp.gecnoguru.com'
+    'djangoapp.gecnoguru.com',
 ]
 
 
